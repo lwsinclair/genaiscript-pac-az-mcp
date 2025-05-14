@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rajyraman-genaiscript-pac-az-mcp-badge.png)](https://mseep.ai/app/rajyraman-genaiscript-pac-az-mcp)
+
 # Power Platform CLI, Graph API and Azure REST API - MCP
 
 This repository contains the Model Context Protocol (MCP) tools for using Graph API, Azure REST API using Azure CLI, and Power Platform Admin APIs/Dataverse APIs using Power Platform CLI.
